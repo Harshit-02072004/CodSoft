@@ -3,7 +3,7 @@ from sklearn.model_selection import train_test_split
 from sklearn.ensemble import RandomForestRegressor
 from sklearn.metrics import mean_squared_error, r2_score
 
-# Load the dataset
+# Load the dataset (change address accordingly)
 data = pd.read_csv("E:\\CodSoft\\titanic\\Movies.csv")
 
 
