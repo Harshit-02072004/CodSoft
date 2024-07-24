@@ -1,3 +1,12 @@
 # CodSoft
 
 Navigate to different branches to find the resources and projects
+
+
+Content:
+
+1. CREDIT-CARD-FRAUD-DETECTION
+2. IRIS-FLOWER-CLASSIFICATION
+3. SALES-PREDICTION
+4. MOVIE-RATING-PREDICTION
+5. TITANIC-SURVIVAL-PREDICTION
